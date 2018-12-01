@@ -1,0 +1,13 @@
+HOW TO USE:
+
+1) Place folder into desired directory.
+2) cd into proper directory containing all files
+3) chmod 777 run.sh
+4) call `make` in terminal to run program
+
+TIPS:
+Place all file contents into the home directory (~), so that
+on startup of a terminal, you can simply type `make` to run
+the program. 
+
+Otherwise, you'll have to cd into proper folder and then run make
